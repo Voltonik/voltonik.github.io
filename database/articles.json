@@ -1,0 +1,22 @@
+{
+   "data": [
+      {
+         "header": "Client-side Prediction",
+         "description": "Very pog description sample, edit later...",
+         "images_directory": "images/articles/client-side-prediction",
+         "url": ""
+      },
+      {
+         "header": "DIY Desktop VR",
+         "description": "....",
+         "images_directory": "images/articles/desktop-vr",
+         "url": ""
+      },
+      {
+         "header": "Reverse Engineering a Keyboard for OpenRGB",
+         "description": "coming soon",
+         "images_directory": "",
+         "url": ""
+      }
+   ]
+}
