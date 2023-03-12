@@ -12,14 +12,14 @@
          "description": "",
          "images_directory": "images/projects/racing game",
          "url": "",
-         "platforms": ["iOS"]
+         "platforms": ["ios"]
       },
       {
          "header": "Axe Thrower",
          "description": "",
          "images_directory": "",
          "url": "",
-         "platforms": ["iOS"]
+         "platforms": ["ios"]
       }
    ]
 }
